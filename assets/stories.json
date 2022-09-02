@@ -1,0 +1,40 @@
+[
+   
+  {
+      "id" : 1,
+      "title" : "Story n1",
+      "coverUrl" : "assets/cover/s1.jpg",
+      "chapters" : [
+          {
+              "id" : 1, "title" : "chapter 1", "body" : "chapter 1 body text"
+          },
+          {
+            "id" : 2, "title" : "chapter 2", "body" : "chapter 2 body text"
+          },
+          {
+            "id" : 3, "title" : "chapter 3", "body" : "chapter 3 body text"
+          }
+      ]
+  }, 
+  {
+    "id" : 2,
+    "title" : "Story n2",
+    "coverUrl" : "assets/cover/s2.jpg",
+    "chapters" : [
+        {
+            "id" : 1, "title" : "chapter 1", "body" : "chapter 1 body text"
+        },
+        {
+          "id" : 2, "title" : "chapter 2", "body" : "chapter 2 body text"
+        }
+    
+    ]
+}
+
+
+
+
+
+
+
+]
